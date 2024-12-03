@@ -1,3 +1,10 @@
+# Node.js Backend
 backend/psw-backend/node_modules/
 backend/psw-backend/.env
+
+# React Frontend
+frontend/psw-frontend/node_modules/
+frontend/psw-frontend/.env
+
+# MacOS system files
 .DS_Store
